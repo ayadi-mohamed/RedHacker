@@ -1,0 +1,8 @@
+i have to check how we can add azure credentials in azure 
+without the necessity to install azure CLI in jenkins container 
+
+now We are able to launch a job using http POST request 
+but there is a problem of lock 
+There is a state file in teraform.
+
+

@@ -1,0 +1,1 @@
+podman run -p 8080:8080 -p 50000:50000 -d -v jenkins_home:/var/jenkins_home -v /home/ansible/redHacker/terraform/:/home/jenkins/terraform -e ARM_USE_MSI=true -e ARM_SUBSCRIPTION_ID=bbcfe786-0b18-42e4-b372-647bab2a2dc0 -e ARM_TENANT_ID=dbd6664d-4eb9-46eb-99d8-5c43ba153c61 jenkins

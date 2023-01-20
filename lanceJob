@@ -1,0 +1,1 @@
+curl -X POST -L --user ayadinou:1157b902b62b3e1f69523e0e4e56f8c18a http://127.0.0.1:8080/job/lab1/build
